@@ -1,0 +1,121 @@
+{
+  "app": {
+    "name": "بيان",
+    "title": "بيان - منصة إدارة الأعمال"
+  },
+  "navigation": {
+    "dashboard": "لوحة التحكم",
+    "overview": "نظرة عامة",
+    "blankpage": "صفحة فارغة",
+    "workspaces": "بيئات العمل",
+    "projects": "المشاريع",
+    "team": "الفريق",
+    "reports": "التقارير",
+    "settings": "الإعدادات",
+    "profile": "الملف الشخصي",
+    "logout": "تسجيل الخروج",
+    "platform": "المنصة",
+    "upgrade": "الترقية إلى المميز",
+    "billing": "الفواتير",
+    "notifications": "الإشعارات"
+  },
+  "actions": {
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "create": "إنشاء",
+    "update": "تحديث",
+    "close": "إغلاق",
+    "confirm": "تأكيد",
+    "back": "رجوع",
+    "next": "التالي",
+    "previous": "السابق",
+    "submit": "إرسال",
+    "reset": "إعادة تعيين",
+    "search": "بحث",
+    "filter": "تصفية",
+    "export": "تصدير",
+    "import": "استيراد",
+    "refresh": "تحديث",
+    "retry": "إعادة المحاولة",
+    "loading": "جاري التحميل...",
+    "view": "عرض",
+    "download": "تحميل",
+    "createWorkspaces": "إنشاء بيئة عمل"
+  },
+  "subscriptions" : {
+    "pro": "الخطة الاحترافية",
+    "trial": "فترة تجريبية",
+    "enterprise": "خطة الشركات"
+  },
+  "status": {
+    "active": "نشط",
+    "inactive": "غير نشط",
+    "pending": "قيد الانتظار",
+    "completed": "مكتمل",
+    "draft": "مسودة",
+    "published": "منشور",
+    "archived": "مؤرشف"
+  },
+  "time": {
+    "today": "اليوم",
+    "yesterday": "أمس",
+    "tomorrow": "غداً",
+    "thisWeek": "هذا الأسبوع",
+    "lastWeek": "الأسبوع الماضي",
+    "thisMonth": "هذا الشهر",
+    "lastMonth": "الشهر الماضي",
+    "thisYear": "هذا العام",
+    "ago": "منذ {{time}}",
+    "in": "خلال {{time}}",
+    "timeAgo": {
+      "justNow": "الآن",
+      "minutesAgo": "منذ {{count}} دقيقة",
+      "minutesAgo_plural": "منذ {{count}} دقائق",
+      "hoursAgo": "منذ {{count}} ساعة",
+      "hoursAgo_plural": "منذ {{count}} ساعات",
+      "daysAgo": "منذ {{count}} يوم",
+      "daysAgo_plural": "منذ {{count}} أيام"
+    }
+  },
+  "greetings": {
+    "goodMorning": "صباح الخير",
+    "goodAfternoon": "مساء الخير",
+    "goodEvening": "مساء الخير",
+    "welcome": "مرحباً",
+    "welcomeBack": "مرحباً بعودتك، {{name}}!"
+  },
+  "forms": {
+    "required": "مطلوب",
+    "optional": "اختياري",
+    "invalid": "غير صحيح",
+    "selectOption": "اختر خياراً",
+    "noOptionsAvailable": "لا توجد خيارات متاحة",
+    "searchPlaceholder": "اكتب للبحث...",
+    "validation": {
+      "required": "هذا الحقل مطلوب",
+      "email": "يرجى إدخال عنوان بريد إلكتروني صحيح",
+      "minLength": "يجب أن يكون على الأقل {{min}} أحرف",
+      "maxLength": "يجب ألا يزيد عن {{max}} حرف",
+      "passwordMismatch": "كلمات المرور غير متطابقة"
+    }
+  },
+  "messages": {
+    "success": "نجح",
+    "error": "خطأ",
+    "warning": "تحذير",
+    "info": "معلومات",
+    "noData": "لا توجد بيانات متاحة",
+    "noResults": "لم يتم العثور على نتائج",
+    "loadingError": "فشل في تحميل البيانات",
+    "networkError": "خطأ في الاتصال بالشبكة",
+    "tryAgain": "يرجى المحاولة مرة أخرى",
+    "somethingWentWrong": "حدث خطأ ما"
+  },
+  "language": {
+    "selectLanguage": "اختر اللغة",
+    "currentLanguage": "اللغة الحالية",
+    "changeLanguage": "تغيير اللغة"
+  }
+}

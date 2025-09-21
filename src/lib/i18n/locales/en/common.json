@@ -1,0 +1,121 @@
+{
+  "app": {
+    "name": "Bayaan",
+    "title": "Bayaan - Business Management Platform"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "overview": "Overview",
+    "blankpage": "Blank page",
+    "workspaces": "Workspaces",
+    "projects": "Projects",
+    "team": "Team",
+    "reports": "Reports",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Logout",
+    "platform": "Platform",
+    "upgrade": "Upgrade to Pro",
+    "billing": "Billing",
+    "notifications": "Notifications"
+  },
+  "actions": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "update": "Update",
+    "close": "Close",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "reset": "Reset",
+    "search": "Search",
+    "filter": "Filter",
+    "export": "Export",
+    "import": "Import",
+    "refresh": "Refresh",
+    "retry": "Retry",
+    "loading": "Loading...",
+    "view": "View",
+    "download": "Download",
+    "createWorkspaces": "Create Workspaces"
+  },
+  "subscriptions" : {
+    "pro": "Pro",
+    "trial": "Trial",
+    "enterprise": "Enterprise"
+  },
+  "status": {
+    "active": "Active",
+    "inactive": "Inactive",
+    "pending": "Pending",
+    "completed": "Completed",
+    "draft": "Draft",
+    "published": "Published",
+    "archived": "Archived"
+  },
+  "time": {
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "tomorrow": "Tomorrow",
+    "thisWeek": "This Week",
+    "lastWeek": "Last Week",
+    "thisMonth": "This Month",
+    "lastMonth": "Last Month",
+    "thisYear": "This Year",
+    "ago": "{{time}} ago",
+    "in": "in {{time}}",
+    "timeAgo": {
+      "justNow": "just now",
+      "minutesAgo": "{{count}} minute ago",
+      "minutesAgo_plural": "{{count}} minutes ago",
+      "hoursAgo": "{{count}} hour ago",
+      "hoursAgo_plural": "{{count}} hours ago",
+      "daysAgo": "{{count}} day ago",
+      "daysAgo_plural": "{{count}} days ago"
+    }
+  },
+  "greetings": {
+    "goodMorning": "Good morning",
+    "goodAfternoon": "Good afternoon",
+    "goodEvening": "Good evening",
+    "welcome": "Welcome",
+    "welcomeBack": "Welcome back, {{name}}!"
+  },
+  "forms": {
+    "required": "Required",
+    "optional": "Optional",
+    "invalid": "Invalid",
+    "selectOption": "Select an option",
+    "noOptionsAvailable": "No options available",
+    "searchPlaceholder": "Type to search...",
+    "validation": {
+      "required": "This field is required",
+      "email": "Please enter a valid email address",
+      "minLength": "Must be at least {{min}} characters",
+      "maxLength": "Must be no more than {{max}} characters",
+      "passwordMismatch": "Passwords do not match"
+    }
+  },
+  "messages": {
+    "success": "Success",
+    "error": "Error",
+    "warning": "Warning",
+    "info": "Info",
+    "noData": "No data available",
+    "noResults": "No results found",
+    "loadingError": "Failed to load data",
+    "networkError": "Network connection error",
+    "tryAgain": "Please try again",
+    "somethingWentWrong": "Something went wrong"
+  },
+  "language": {
+    "selectLanguage": "Select Language",
+    "currentLanguage": "Current Language",
+    "changeLanguage": "Change Language"
+  }
+}

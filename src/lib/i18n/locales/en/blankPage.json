@@ -1,0 +1,14 @@
+{
+  "title": "Blank Page",
+  "greeting": "{{greeting}}, {{name}}!",
+  "subtitle": "This is a blank page template ready for your content.",
+  "devMode": {
+    "title": "Development Mode",
+    "description": "This is a blank page template. Remove this banner and customize the content below."
+  },
+  "footer": {
+    "currentTenant": "Current Tenant: {{tenantName}}",
+    "unknownTenant": "Unknown",
+    "readyMessage": "Ready to build something amazing? This page is your starting point."
+  }
+}

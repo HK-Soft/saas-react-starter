@@ -1,0 +1,14 @@
+{
+  "title": "Page Vide",
+  "greeting": "{{greeting}}, {{name}} !",
+  "subtitle": "Ceci est un modèle de page vide prêt pour votre contenu.",
+  "devMode": {
+    "title": "Mode Développement",
+    "description": "Ceci est un modèle de page vide. Supprimez cette bannière et personnalisez le contenu ci-dessous."
+  },
+  "footer": {
+    "currentTenant": "Locataire actuel : {{tenantName}}",
+    "unknownTenant": "Inconnu",
+    "readyMessage": "Prêt à construire quelque chose d'incroyable ? Cette page est votre point de départ."
+  }
+}

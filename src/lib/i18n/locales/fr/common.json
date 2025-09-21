@@ -1,0 +1,121 @@
+{
+  "app": {
+    "name": "Bayaan",
+    "title": "Bayaan - Plateforme de Gestion d'Entreprise"
+  },
+  "navigation": {
+    "dashboard": "Tableau de bord",
+    "overview": "Vue d’ensemble",
+    "blankpage": "Page vide",
+    "workspaces": "Espaces de travail",
+    "projects": "Projets",
+    "team": "Équipe",
+    "reports": "Rapports",
+    "settings": "Paramètres",
+    "profile": "Profil",
+    "logout": "Déconnexion",
+    "platform": "platform",
+    "upgrade": "passer à la version pro",
+    "billing": "facturation",
+    "notifications": "notifications"
+  },
+  "actions": {
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "create": "Créer",
+    "update": "Mettre à jour",
+    "close": "Fermer",
+    "confirm": "Confirmer",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "submit": "Soumettre",
+    "reset": "Réinitialiser",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "export": "Exporter",
+    "import": "Importer",
+    "refresh": "Actualiser",
+    "retry": "Réessayer",
+    "loading": "Chargement...",
+    "view": "Voir",
+    "download": "Télécharger",
+    "createWorkspaces": "Créer un espace de travail"
+  },
+  "subscriptions" : {
+    "pro": "Pro",
+    "trial": "Essai gratuit",
+    "enterprise": "Offre entreprise"
+  },
+  "status": {
+    "active": "Actif",
+    "inactive": "Inactif",
+    "pending": "En attente",
+    "completed": "Terminé",
+    "draft": "Brouillon",
+    "published": "Publié",
+    "archived": "Archivé"
+  },
+  "time": {
+    "today": "Aujourd'hui",
+    "yesterday": "Hier",
+    "tomorrow": "Demain",
+    "thisWeek": "Cette semaine",
+    "lastWeek": "Semaine dernière",
+    "thisMonth": "Ce mois",
+    "lastMonth": "Mois dernier",
+    "thisYear": "Cette année",
+    "ago": "il y a {{time}}",
+    "in": "dans {{time}}",
+    "timeAgo": {
+      "justNow": "à l'instant",
+      "minutesAgo": "il y a {{count}} minute",
+      "minutesAgo_plural": "il y a {{count}} minutes",
+      "hoursAgo": "il y a {{count}} heure",
+      "hoursAgo_plural": "il y a {{count}} heures",
+      "daysAgo": "il y a {{count}} jour",
+      "daysAgo_plural": "il y a {{count}} jours"
+    }
+  },
+  "greetings": {
+    "goodMorning": "Bonjour",
+    "goodAfternoon": "Bon après-midi",
+    "goodEvening": "Bonsoir",
+    "welcome": "Bienvenue",
+    "welcomeBack": "Bon retour, {{name}} !"
+  },
+  "forms": {
+    "required": "Requis",
+    "optional": "Optionnel",
+    "invalid": "Invalide",
+    "selectOption": "Sélectionner une option",
+    "noOptionsAvailable": "Aucune option disponible",
+    "searchPlaceholder": "Tapez pour rechercher...",
+    "validation": {
+      "required": "Ce champ est requis",
+      "email": "Veuillez entrer une adresse e-mail valide",
+      "minLength": "Doit contenir au moins {{min}} caractères",
+      "maxLength": "Ne doit pas dépasser {{max}} caractères",
+      "passwordMismatch": "Les mots de passe ne correspondent pas"
+    }
+  },
+  "messages": {
+    "success": "Succès",
+    "error": "Erreur",
+    "warning": "Avertissement",
+    "info": "Information",
+    "noData": "Aucune donnée disponible",
+    "noResults": "Aucun résultat trouvé",
+    "loadingError": "Échec du chargement des données",
+    "networkError": "Erreur de connexion réseau",
+    "tryAgain": "Veuillez réessayer",
+    "somethingWentWrong": "Quelque chose s'est mal passé"
+  },
+  "language": {
+    "selectLanguage": "Sélectionner la langue",
+    "currentLanguage": "Langue actuelle",
+    "changeLanguage": "Changer de langue"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "generic": {
+    "title": "Quelque chose s'est mal passé",
+    "message": "Une erreur inattendue s'est produite. Veuillez réessayer.",
+    "retry": "Réessayer",
+    "goHome": "Aller à l'accueil",
+    "reportIssue": "Signaler un problème"
+  },
+  "network": {
+    "title": "Erreur de connexion",
+    "message": "Impossible de se connecter au serveur. Veuillez vérifier votre connexion Internet.",
+    "offline": "Vous semblez être hors ligne. Veuillez vérifier votre connexion."
+  },
+  "notFound": {
+    "title": "Page non trouvée",
+    "message": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "subtitle": "La page que vous recherchez semble avoir disparu dans le vide numérique."
+  },
+  "unauthorized": {
+    "title": "Accès refusé",
+    "message": "Vous n'avez pas la permission d'accéder à cette ressource.",
+    "login": "Veuillez vous connecter pour continuer"
+  },
+  "tenant": {
+    "loading": "Chargement de l'espace de travail...",
+    "noWorkspace": {
+      "title": "Aucun espace de travail disponible",
+      "message": "Vous n'avez accès à aucun espace de travail. Veuillez contacter votre administrateur."
+    },
+    "switchFailed": "Échec du changement d'espace de travail",
+    "loadFailed": "Échec du chargement des informations de l'espace de travail"
+  },
+  "validation": {
+    "required": "Ce champ est requis",
+    "email": "Veuillez entrer une adresse e-mail valide",
+    "minLength": "Doit contenir au moins {{min}} caractères",
+    "maxLength": "Ne doit pas dépasser {{max}} caractères",
+    "numeric": "Veuillez entrer un nombre valide",
+    "phoneNumber": "Veuillez entrer un numéro de téléphone valide"
+  }
+}

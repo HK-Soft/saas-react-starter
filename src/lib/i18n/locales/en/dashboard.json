@@ -1,0 +1,33 @@
+{
+  "title": "Dashboard",
+  "welcome": "{{greeting}}, {{name}}! 👋",
+  "subtitle": "Here's what's happening in {{workspace}} today.",
+  "actions": {
+    "newProject": "New Project",
+    "viewAll": "View All",
+    "refresh": "Refresh Data"
+  },
+  "stats": {
+    "totalProjects": "Total Projects",
+    "activeProjects": "Active Projects",
+    "completedTasks": "Completed Tasks",
+    "teamMembers": "Team Members"
+  },
+  "recentActivity": {
+    "title": "Recent Activity",
+    "noActivity": "No recent activity",
+    "loadMore": "Load More"
+  },
+  "quickActions": {
+    "title": "Quick Actions",
+    "createProject": "Create Project",
+    "inviteTeam": "Invite Team Member",
+    "generateReport": "Generate Report",
+    "viewAnalytics": "View Analytics"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "noNotifications": "No new notifications",
+    "markAllRead": "Mark All as Read"
+  }
+}

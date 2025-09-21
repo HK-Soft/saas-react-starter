@@ -1,0 +1,33 @@
+{
+  "title": "Tableau de bord",
+  "welcome": "{{greeting}}, {{name}} ! 👋",
+  "subtitle": "Voici ce qui se passe dans {{workspace}} aujourd'hui.",
+  "actions": {
+    "newProject": "Nouveau projet",
+    "viewAll": "Voir tout",
+    "refresh": "Actualiser les données"
+  },
+  "stats": {
+    "totalProjects": "Total des projets",
+    "activeProjects": "Projets actifs",
+    "completedTasks": "Tâches terminées",
+    "teamMembers": "Membres de l'équipe"
+  },
+  "recentActivity": {
+    "title": "Activité récente",
+    "noActivity": "Aucune activité récente",
+    "loadMore": "Charger plus"
+  },
+  "quickActions": {
+    "title": "Actions rapides",
+    "createProject": "Créer un projet",
+    "inviteTeam": "Inviter un membre d'équipe",
+    "generateReport": "Générer un rapport",
+    "viewAnalytics": "Voir les analyses"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "noNotifications": "Aucune nouvelle notification",
+    "markAllRead": "Tout marquer comme lu"
+  }
+}
